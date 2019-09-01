@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40ebbb4a203839ada29ca75ee5b78fca",
+    "revision": "e12f8bd6e9a2d10e7fa7319a177f3dd1",
     "url": "/github-router/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github-router/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "f07967ddc2f62bc76cec",
-    "url": "/github-router/static/css/main.25f5024b.chunk.css"
+    "revision": "934209dda4a19c8c7a6d",
+    "url": "/github-router/static/css/main.ffc2c424.chunk.css"
   },
   {
     "revision": "c7f37e417b35c8a4e33a",
     "url": "/github-router/static/js/2.59dbfc9d.chunk.js"
   },
   {
-    "revision": "f07967ddc2f62bc76cec",
+    "revision": "934209dda4a19c8c7a6d",
     "url": "/github-router/static/js/main.52afcdb0.chunk.js"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github-router/static/js/runtime~main.14d6af01.js"
   },
   {
-    "revision": "78f4533244bc3466bd9931fc4bd068ac",
-    "url": "/github-router/static/media/Blogger.78f45332.otf"
+    "revision": "a105cda50ada8b1d3c5a401a5411f8ae",
+    "url": "/github-router/static/media/Blogger.a105cda5.otf"
   },
   {
     "revision": "4737e9aacb11cdf01e800a8d531aeebd",
