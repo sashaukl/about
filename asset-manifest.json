@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/about/static/css/main.8cd14a3e.chunk.css",
-    "main.js": "/about/static/js/main.5cac8782.chunk.js",
-    "main.js.map": "/about/static/js/main.5cac8782.chunk.js.map",
-    "runtime~main.js": "/about/static/js/runtime~main.c0e869d3.js",
-    "runtime~main.js.map": "/about/static/js/runtime~main.c0e869d3.js.map",
-    "static/css/2.266e55a5.chunk.css": "/about/static/css/2.266e55a5.chunk.css",
-    "static/js/2.74c7b9de.chunk.js": "/about/static/js/2.74c7b9de.chunk.js",
-    "static/js/2.74c7b9de.chunk.js.map": "/about/static/js/2.74c7b9de.chunk.js.map",
-    "index.html": "/about/index.html",
-    "precache-manifest.18b5fc11cc1591e4c2c2e169a39258ab.js": "/about/precache-manifest.18b5fc11cc1591e4c2c2e169a39258ab.js",
-    "service-worker.js": "/about/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/about/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.8cd14a3e.chunk.css.map": "/about/static/css/main.8cd14a3e.chunk.css.map"
+    "main.css": "/github-router/static/css/main.8cd14a3e.chunk.css",
+    "main.js": "/github-router/static/js/main.28dc35f8.chunk.js",
+    "main.js.map": "/github-router/static/js/main.28dc35f8.chunk.js.map",
+    "runtime~main.js": "/github-router/static/js/runtime~main.14d6af01.js",
+    "runtime~main.js.map": "/github-router/static/js/runtime~main.14d6af01.js.map",
+    "static/css/2.266e55a5.chunk.css": "/github-router/static/css/2.266e55a5.chunk.css",
+    "static/js/2.3e46a9d6.chunk.js": "/github-router/static/js/2.3e46a9d6.chunk.js",
+    "static/js/2.3e46a9d6.chunk.js.map": "/github-router/static/js/2.3e46a9d6.chunk.js.map",
+    "index.html": "/github-router/index.html",
+    "precache-manifest.a7606264ec27d96be13482816a027278.js": "/github-router/precache-manifest.a7606264ec27d96be13482816a027278.js",
+    "service-worker.js": "/github-router/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/github-router/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.8cd14a3e.chunk.css.map": "/github-router/static/css/main.8cd14a3e.chunk.css.map"
   }
 }
